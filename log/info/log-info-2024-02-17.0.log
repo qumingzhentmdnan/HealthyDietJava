@@ -1,0 +1,82 @@
+2024-02-17 10:58:05.712 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Starting HealthyDietAppApplication using Java 21.0.1 with PID 11244 (D:\代码\项目代码\HealthyDietApp\target\classes started by 86152 in D:\代码\项目代码\HealthyDietApp)
+2024-02-17 10:58:05.716 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - The following 1 profile is active: "dev"
+2024-02-17 10:58:05.762 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-17 10:58:05.762 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-17 10:58:06.443 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-02-17 10:58:06.446 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-02-17 10:58:06.478 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 18 ms. Found 0 Redis repository interfaces.
+2024-02-17 10:58:07.185 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-02-17 10:58:07.200 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-17 10:58:07.202 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-02-17 10:58:07.202 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-02-17 10:58:07.278 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-02-17 10:58:07.278 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1516 ms
+2024-02-17 10:58:08.527 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-02-17 10:58:08.544 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-02-17 10:58:08.559 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-17 10:58:08.567 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Started HealthyDietAppApplication in 3.397 seconds (process running for 4.313)
+2024-02-17 10:58:19.387 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-17 10:58:19.389 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-02-17 10:58:19.390 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-02-17 11:45:25.367 [File Watcher] INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener - Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-02-17 11:45:25.378 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:25.378 [Thread-5] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+2024-02-17 11:45:25.380 [Thread-5] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-02-17 11:45:25.390 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:25.392 [Thread-5] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:25.555 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Starting HealthyDietAppApplication using Java 21.0.1 with PID 11244 (D:\代码\项目代码\HealthyDietApp\target\classes started by 86152 in D:\代码\项目代码\HealthyDietApp)
+2024-02-17 11:45:25.555 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - The following 1 profile is active: "dev"
+2024-02-17 11:45:25.821 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-02-17 11:45:25.822 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-02-17 11:45:25.831 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 9 ms. Found 0 Redis repository interfaces.
+2024-02-17 11:45:25.962 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-02-17 11:45:25.963 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:25.963 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-02-17 11:45:25.963 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-02-17 11:45:26.003 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-02-17 11:45:26.003 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 444 ms
+2024-02-17 11:45:26.348 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-02-17 11:45:26.360 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:26.364 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-17 11:45:26.367 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Started HealthyDietAppApplication in 0.893 seconds (process running for 2842.114)
+2024-02-17 11:45:26.370 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
+2024-02-17 11:45:30.752 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Starting HealthyDietAppApplication using Java 21.0.1 with PID 20064 (D:\代码\项目代码\HealthyDietApp\target\classes started by 86152 in D:\代码\项目代码\HealthyDietApp)
+2024-02-17 11:45:30.753 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - The following 1 profile is active: "dev"
+2024-02-17 11:45:30.806 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-17 11:45:30.807 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-17 11:45:31.460 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-02-17 11:45:31.463 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-02-17 11:45:31.502 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 21 ms. Found 0 Redis repository interfaces.
+2024-02-17 11:45:32.232 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-02-17 11:45:32.242 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:32.244 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-02-17 11:45:32.244 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-02-17 11:45:32.313 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-02-17 11:45:32.314 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1507 ms
+2024-02-17 11:45:33.562 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-02-17 11:45:33.579 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:45:33.597 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-17 11:45:33.607 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Started HealthyDietAppApplication in 3.323 seconds (process running for 4.484)
+2024-02-17 11:46:11.026 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-17 11:46:11.026 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-02-17 11:46:11.027 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-02-17 11:51:07.907 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Starting HealthyDietAppApplication using Java 21.0.1 with PID 23152 (D:\代码\项目代码\HealthyDietApp\target\classes started by 86152 in D:\代码\项目代码\HealthyDietApp)
+2024-02-17 11:51:07.909 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - The following 1 profile is active: "dev"
+2024-02-17 11:51:07.951 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-17 11:51:07.952 [restartedMain] INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-02-17 11:51:08.606 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+2024-02-17 11:51:08.608 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-02-17 11:51:08.648 [restartedMain] INFO  o.s.d.r.config.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 20 ms. Found 0 Redis repository interfaces.
+2024-02-17 11:51:09.312 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2024-02-17 11:51:09.318 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:51:09.321 [restartedMain] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2024-02-17 11:51:09.321 [restartedMain] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.16]
+2024-02-17 11:51:09.379 [restartedMain] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-02-17 11:51:09.379 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1426 ms
+2024-02-17 11:51:10.507 [restartedMain] INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-02-17 11:51:10.528 [restartedMain] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-02-17 11:51:10.545 [restartedMain] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2024-02-17 11:51:10.554 [restartedMain] INFO  com.fjut.healthydietapp.HealthyDietAppApplication - Started HealthyDietAppApplication in 3.082 seconds (process running for 3.841)
+2024-02-17 11:51:23.094 [http-nio-8080-exec-1] INFO  o.a.c.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-02-17 11:51:23.096 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-02-17 11:51:23.097 [http-nio-8080-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet - Completed initialization in 1 ms
